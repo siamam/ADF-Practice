@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "SMPracticeDataFactory"
+		},
+		"AzureDataLakeStorageLinkedService_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLinkedService_properties_typeProperties_url": {
+			"value": "https://smpracticedatalake.dfs.core.windows.net/"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://smpracticekeyvault.vault.azure.net/"
+		},
+		"SqlServerOnPremLinkedService_properties_typeProperties_server": {
+			"value": "LAPTOP-V60MP24R\\SQLEXPRESS"
+		},
+		"SqlServerOnPremLinkedService_properties_typeProperties_database": {
+			"value": "AdventureWorks_MoreSPP"
+		},
+		"SqlServerOnPremLinkedService_properties_typeProperties_userName": {
+			"value": "siama"
+		}
+	}
+}
