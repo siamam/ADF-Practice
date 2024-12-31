@@ -1,0 +1,9 @@
+{
+	"name": "SMPracticeDataFactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b604985-6b21-4504-bd85-3edb5baff529",
+		"tenantId": "d60b6b39-c5c5-470d-92cd-f1dfcec4fd77"
+	}
+}
