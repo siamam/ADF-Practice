@@ -75,10 +75,6 @@
 				"name": "ShipCountry",
 				"type": "nvarchar"
 			}
-		],
-		"typeProperties": {
-			"schema": "dbo",
-			"table": "Orders"
-		}
+		]
 	}
 }
