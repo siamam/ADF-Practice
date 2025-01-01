@@ -11,6 +11,9 @@
 		"AzureDataLakeStorageLinkedService_properties_typeProperties_url": {
 			"value": "https://smpracticedatalake.dfs.core.windows.net/"
 		},
+		"AzureDatabricksLinkedservice_properties_typeProperties_existingClusterId": {
+			"value": "1231-181228-wurua9a2"
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://smpracticekeyvault.vault.azure.net/"
 		},
